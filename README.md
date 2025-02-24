@@ -4,7 +4,6 @@ Un repositorio para conquistar el mundo
 Básicamente aprenderemos más sobre Git y GitHub con este proyecto
 
 
-# Fernando
+# Prueba
 
-
-## Curso de Fernando en Udemy
+## Tomando prueba de git
